@@ -1,0 +1,7 @@
+source_system,source_type,interface,status,freshness,quality_score_pct,notes
+CM online communication / OEM telemetry,Mobile equipment telemetry,MCM-approved export/API,Demo data loaded,4-hourly simulated,92,Production and engineering report style data represented.
+Adroit SCADA / Historian extract,SCADA / historian,MCM-approved historian/export,Demo data loaded,4-hourly simulated,89,Processed SCADA-derived tags represented.
+Pronto Xi ERP/CMMS,Maintenance records,MCM-approved export/API,Demo data loaded,Event-based simulated,84,Work-order and downtime records represented.
+Condition monitoring reports,Vibration/oil/motor analysis,Report/database extract,Demo data loaded,Scheduled/event-based simulated,87,Overall vibration and condition indicators represented.
+Energy meters,Energy management,Meter export/API,Demo data loaded,4-hourly simulated,91,Energy profile and intensity analytics represented.
+Underground EMS,Environmental monitoring,EMS/SCADA-derived data,Demo data loaded,4-hourly simulated,90,"CH4, temperature and environmental variables represented."

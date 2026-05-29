@@ -1,0 +1,6 @@
+model_name,version,model_type,target,status,last_validated,owner
+Engineering Baseline Envelope,v1.0,Rules/statistical baseline,Thresholds and normal operating envelope,Approved for demo,2026-06-28,Reliability + ML
+Asset Health Index,v1.0,Weighted scoring model,Health score 0-100,Approved for demo,2026-06-28,Reliability + ML
+Failure Risk Classifier,v1.0,Hybrid risk model,Failure risk percentage and level,Approved for demo,2026-06-28,ML Lead
+RUL Estimator,v0.9,Trend-based estimator,Estimated remaining useful life days,Demo / data-dependent,2026-06-28,ML Lead
+Anomaly Detection,v1.0,Statistical anomaly score,Anomaly score 0-1,Approved for demo,2026-06-28,ML Lead

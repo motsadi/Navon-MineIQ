@@ -1,0 +1,17 @@
+event_id,asset_id,event_date,event_type,description,downtime_hours,work_order_ref
+ME-CM-01-001,CM-01,2026-03-15,Planned inspection,Routine inspection and condition monitoring review,2.0,WO-CM-01-202603
+ME-CM-01-002,CM-01,2026-05-20,Corrective action,"Inspect cutter/traction drives, hydraulic system, radio communication and oil condition. Review shift alarm patterns.",4.5,WO-CM-01-202605
+ME-TC-01-001,TC-01,2026-03-15,Planned inspection,Routine inspection and condition monitoring review,2.0,WO-TC-01-202603
+ME-TC-01-002,TC-01,2026-05-20,Corrective action,"Inspect pulley/bearing condition, belt alignment, drive current and transfer point loading.",4.5,WO-TC-01-202605
+ME-VF-01-001,VF-01,2026-03-15,Planned inspection,Routine inspection and condition monitoring review,2.0,WO-VF-01-202603
+ME-VF-01-002,VF-01,2026-05-20,Corrective action,"Inspect motor bearings, vibration trend, inlet guide condition and fan efficiency.",4.5,WO-VF-01-202605
+ME-DMS-01-001,DMS-01,2026-03-15,Planned inspection,Routine inspection and condition monitoring review,2.0,WO-DMS-01-202603
+ME-DMS-01-002,DMS-01,2026-05-20,Corrective action,"Inspect drum drive, bearing vibration, medium density stability and throughput loading.",4.5,WO-DMS-01-202605
+ME-CR-01-001,CR-01,2026-03-15,Planned inspection,Routine inspection and condition monitoring review,2.0,WO-CR-01-202603
+ME-CR-01-002,CR-01,2026-05-20,Corrective action,"Inspect bearings, liners, drive current, vibration trend and feed variability.",4.5,WO-CR-01-202605
+ME-CP-01-001,CP-01,2026-03-15,Planned inspection,Routine inspection and condition monitoring review,2.0,WO-CP-01-202603
+ME-CP-01-002,CP-01,2026-05-20,Corrective action,"Inspect pressure stability, oil temperature, motor current and leakage indicators.",4.5,WO-CP-01-202605
+ME-EM-01-001,EM-01,2026-03-15,Planned inspection,Routine inspection and condition monitoring review,2.0,WO-EM-01-202603
+ME-EM-01-002,EM-01,2026-05-20,Corrective action,"Review load profile, peak demand, abnormal consumption and energy intensity drivers.",4.5,WO-EM-01-202605
+ME-EMS-01-001,EMS-01,2026-03-15,Planned inspection,Routine inspection and condition monitoring review,2.0,WO-EMS-01-202603
+ME-EMS-01-002,EMS-01,2026-05-20,Corrective action,"Verify gas sensor calibration, airflow/velocity trend and alarm response readiness.",4.5,WO-EMS-01-202605

@@ -1,0 +1,7 @@
+username,role,access_level
+director,Executive,"Executive overview, KPIs, reports"
+reliability,Reliability Engineer,"Asset health, baselines, analytics, alerts"
+maintenance,Maintenance Planner,"Alerts, work-order support, maintenance planner"
+operations,Operations Controller,Operational dashboards and asset trends
+esg,ESG / Energy,"Energy, emissions proxy and environmental dashboards"
+itot,IT/OT Administrator,"Data sources, users, audit logs, model governance"
