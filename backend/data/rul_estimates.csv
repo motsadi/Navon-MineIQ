@@ -1,0 +1,9 @@
+asset_id,asset_name,asset_type,rul_days,rul_lower_days,rul_upper_days,confidence,method,estimated_failure_date,recommended_action
+CM-01,Continuous Miner 01,Continuous Miner,55,38,71,0.873,Trend-based degradation estimator (demo),2026-07-23,Schedule inspection
+TC-01,Trunk Conveyor 01,Trunk Conveyor,114,79,148,0.921,Trend-based degradation estimator (demo),2026-09-20,Schedule inspection
+VF-01,Ventilation Fan 01,Ventilation Fan,42,29,54,0.839,Trend-based degradation estimator (demo),2026-07-10,Plan condition-based intervention
+DMS-01,DMS Drum 01,DMS Drum,95,66,123,0.911,Trend-based degradation estimator (demo),2026-09-01,Schedule inspection
+CR-01,Crusher 01,Crusher,24,16,31,0.795,Trend-based degradation estimator (demo),2026-06-22,Plan condition-based intervention
+CP-01,Compressor 01,Compressor,184,128,239,0.844,Trend-based degradation estimator (demo),2026-11-29,Schedule inspection
+EM-01,Energy Meter 01,Energy Meter,322,225,418,0.873,Trend-based degradation estimator (demo),2027-04-16,Schedule inspection
+EMS-01,Underground EMS 01,Underground EMS,299,209,388,0.807,Trend-based degradation estimator (demo),2027-03-24,Schedule inspection

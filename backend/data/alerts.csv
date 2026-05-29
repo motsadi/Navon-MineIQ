@@ -1,0 +1,12 @@
+alert_id,asset_id,timestamp,severity,alert_type,reason_code,recommended_action,status,owner_role
+AL-0010,EM-01,2026-05-27 07:00:00,Low,Energy / demand anomaly,ENG-DMD-07,"Review load profile, peak demand and abnormal consumption drivers.",Open,Reliability Engineer
+AL-0003,VF-01,2026-05-26 06:00:00,High,Bearing vibration / temperature,VIB-TMP-03,"Inspect motor bearings, vibration trend, inlet guide condition and fan efficiency.",Open,Reliability Engineer
+AL-0006,CR-01,2026-05-25 15:00:00,Critical,Main bearing vibration,VIB-BRG-05,"Inspect main bearings, liners, drive current and feed variability.",Open,Reliability Engineer
+AL-0004,VF-01,2026-05-25 08:00:00,Medium,Bearing vibration / temperature,VIB-TMP-03,"Inspect motor bearings, vibration trend, inlet guide condition and fan efficiency.",Closed,Reliability Engineer
+AL-0011,EMS-01,2026-05-24 19:00:00,Low,Environmental threshold watch,ENV-GAS-08,"Verify gas sensor calibration, airflow trend and alarm response readiness.",Open,Reliability Engineer
+AL-0009,CP-01,2026-05-24 17:00:00,Low,Discharge pressure / oil temperature,PRS-OIL-06,"Inspect pressure stability, oil temperature and leakage indicators.",Open,Reliability Engineer
+AL-0002,TC-01,2026-05-22 13:00:00,Low,Drive bearing vibration,VIB-DRV-02,"Inspect pulley/bearing condition, belt alignment and transfer-point loading.",Open,Reliability Engineer
+AL-0008,CR-01,2026-05-21 18:00:00,Medium,Main bearing vibration,VIB-BRG-05,"Inspect main bearings, liners, drive current and feed variability.",Closed,Reliability Engineer
+AL-0001,CM-01,2026-05-20 05:00:00,Medium,Vibration / current deviation,VIB-CUR-01,"Inspect cutter and traction drives, hydraulic system and oil condition.",Open,Reliability Engineer
+AL-0007,CR-01,2026-05-19 17:00:00,High,Main bearing vibration,VIB-BRG-05,"Inspect main bearings, liners, drive current and feed variability.",Open,Reliability Engineer
+AL-0005,DMS-01,2026-05-18 15:00:00,Medium,Drum drive vibration,VIB-DRM-04,"Inspect drum drive, bearing vibration and medium-density stability.",Open,Reliability Engineer

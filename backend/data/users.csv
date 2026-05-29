@@ -1,0 +1,7 @@
+username,display_name,role,access_level
+exec,Thabo Director,Executive,"Executive overview, KPIs, reports"
+reliability,Lerato Engineer,Reliability Engineer,"Asset health, baselines, analytics, alerts"
+planner,Kabelo Planner,Maintenance Planner,"Alerts, work-order support, maintenance planner"
+ops,Naledi Controller,Operations User,Operational dashboards and asset trends
+itot,Sipho Admin,IT/OT Admin,"Data sources, users, audit logs, model governance"
+she,Boitumelo SHE,SHE/ESG User,"Energy, emissions and environmental dashboards"

@@ -1,0 +1,7 @@
+source_system,source_type,interface,ingestion_status,freshness,completeness_pct,missing_value_rate_pct,quality_score,latest_timestamp,notes
+Historian / SCADA-derived data,SCADA / historian,Approved historian export / API,Connected (demo),4-hourly simulated,96.4,3.6,92,2026-05-29 00:00:00,Processed SCADA-derived tags represented.
+OEM telemetry output,Mobile equipment telemetry,Approved OEM export / API,Connected (demo),4-hourly simulated,93.1,6.9,90,2026-05-29 00:00:00,Continuous miner production and engineering data represented.
+Pronto Xi ERP/CMMS export,Maintenance records,Approved ERP/CMMS export / API,Connected (demo),Event-based simulated,98.0,2.0,88,2026-05-28 00:00:00,"Work-order, downtime and cost records represented."
+Condition monitoring output,Vibration / oil / motor analysis,Report / database extract,Connected (demo),Scheduled / event-based simulated,90.5,9.5,87,2026-05-27 00:00:00,Overall vibration and condition indicators represented.
+Energy meter data,Energy management,Meter export / API,Connected (demo),4-hourly simulated,97.8,2.2,91,2026-05-29 00:00:00,Energy profile and intensity analytics represented.
+Underground EMS data,Environmental monitoring,EMS / SCADA-derived data,Connected (demo),Hourly simulated,95.2,4.8,90,2026-05-29 00:00:00,"CH4, CO, airflow, smoke and environmental variables represented."

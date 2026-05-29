@@ -1,0 +1,9 @@
+asset_id,asset_name,asset_type,location,area,criticality,system_group,primary_source,phase1_population,health_score,failure_risk,risk_level,rul_days,status,commissioned
+CM-01,Continuous Miner 01,Continuous Miner,Underground,Section A,High,Mobile Mining Equipment,OEM telemetry / CM online communication,4 Continuous Miners,72.3,36.5,Medium,55,Running,2019-2023
+TC-01,Trunk Conveyor 01,Trunk Conveyor,Underground,Main Trunk,High,Material Handling,SCADA / PLC-derived data,6 Trunk Conveyors,80.5,27.9,Low,114,Running,2019-2023
+VF-01,Ventilation Fan 01,Ventilation Fan,Surface,Main Ventilation Station,Critical,Ventilation,Ventilation fan online monitoring / SCADA,2 Ventilation Fans,59.9,57.2,High,42,Warning,2019-2023
+DMS-01,DMS Drum 01,DMS Drum,Surface,Processing Plant - DMS Circuit,High,Processing Plant,Adroit SCADA / historian extract,1 DMS Drum,73.9,34.7,Medium,95,Running,2019-2023
+CR-01,Crusher 01,Crusher,Surface,Processing Plant - Crushing,High,Processing Plant,SCADA / vibration monitoring,3 Crushers,49.7,70.7,Critical,24,Alarm,2019-2023
+CP-01,Compressor 01,Compressor,Surface,Surface Services,Medium,Compressed Air,SCADA / condition monitoring,3 Compressors,83.0,24.4,Low,184,Running,2019-2023
+EM-01,Energy Meter 01,Energy Meter,Surface,Main Substation,Medium,Energy Management,Energy meter export / Modbus-derived data,Energy Meters,94.7,9.1,Low,322,Running,2019-2023
+EMS-01,Underground EMS 01,Underground EMS,Underground,Environmental Monitoring,Critical,Safety and Environment,Underground EMS / surface SCADA,Underground Environmental Management System,90.1,11.9,Low,299,Running,2019-2023
